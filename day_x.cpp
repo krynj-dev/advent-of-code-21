@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
     cout << "1: The answer is " << ans1 << "\n";
     // Task Two
     int ans2 = task_two(input);
-    cout << "2: Your answer is " << ans2 << "\n";
+    cout << "2: The answer is " << ans2 << "\n";
 
 }
 
